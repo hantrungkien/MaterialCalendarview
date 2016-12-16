@@ -22,5 +22,4 @@ dependencies {
     compile 'com.android.support:appcompat-v7:24.2.1'
     compile 'com.android.support:recyclerview-v7:24.2.1'
     compile 'com.jakewharton:butterknife:7.0.1'
-    compile 'com.github.hantrungkien:MaterialCalendarview:-SNAPSHOT'
 }

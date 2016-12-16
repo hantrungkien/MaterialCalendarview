@@ -1,6 +1,9 @@
 apply plugin: 'com.android.library'
 apply plugin: 'maven'
 apply plugin: 'signing'
+apply plugin: 'maven'
+
+group = 'com.github.hantrungkien'
 
 android {
     compileSdkVersion 24
