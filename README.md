@@ -19,7 +19,7 @@ allprojects {
 ````
 module/build.gradle
 ````gradle
-compile 'com.github.hantrungkien:MaterialCalendarview:-SNAPSHOT'
+compile 'com.github.hantrungkien:MaterialCalendarview:1.0.0'
 ````
 
 #### How to use:
