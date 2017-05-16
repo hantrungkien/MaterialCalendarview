@@ -3,7 +3,7 @@ MaterialCalendarview
 
 [![](https://jitpack.io/v/hantrungkien/MaterialCalendarview.svg)](https://jitpack.io/#hantrungkien/MaterialCalendarview)
 
-<a><img src="./image/screenshot.jpg" width="200"></a>
+<a><img src="http://sv1.upsieutoc.com/2017/05/17/screenshot.jpg" width="200"></a>
 
 ### install:
 
